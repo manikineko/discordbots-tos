@@ -29,12 +29,6 @@ You are prohibited from using/continuing to use our services if you engage in ac
 
 We may retain your data for debugging purposes, understanding the user base, and enforcing EULA violations. We may share data with third-party APIs subject to their respective privacy policies. In severe EULA violation cases, we may report to local authorities as required by law.
 
-## 8. Clause on AI Usage Disputes
-
-In the event that you engage in active disputes or conflicts over the usage of Artificial Intelligence (AI) or you actively engage in attacks against the company or its developers, the following conditions apply:
-
-1. Service Restriction: We reserve the right to disallow your use of our services until the resolution of such disputes.
-2. Copyright Transfer: If you continue to engage in such disputes while using our services, you hereby agree to waive all your copyrights and transfer them to our company.
 
 This clause is enacted due to the increasing personal nature of disputes over AI usage, which have escalated beyond acceptable limits. By using our services, you agree to abide by this clause.
 
