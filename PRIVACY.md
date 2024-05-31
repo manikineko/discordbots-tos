@@ -10,7 +10,7 @@ This Privacy Policy describes how your personal information is collected, used, 
 We may collect the following types of information:
 
 - Personal identification information (Name(only when given), email address(OAUTH only), phone number(only when given),Discord userid,discord username, etc.)
-- Payment information
+- Payment information(If used and only for verifying payments)
 - Usage data
 
 ## 3. How We Use Your Information
