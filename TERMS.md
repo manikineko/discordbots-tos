@@ -35,3 +35,5 @@ This clause is enacted due to the increasing personal nature of disputes over AI
 ## 9. GDPR Notice
 
 To request the removal of your information from our services, please contact admin@manikineko.nl or the owners.
+## 10. we kindly sugest you read the full EULA at
+https://manikineko.nl/TOS.html
