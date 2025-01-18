@@ -36,4 +36,4 @@ This clause is enacted due to the increasing personal nature of disputes over AI
 
 To request the removal of your information from our services, please contact admin@manikineko.nl or the owners.
 ## 10. we kindly sugest you read the full EULA at
-https://manikineko.nl/eula
+https://manikineko.nl/eula.html
